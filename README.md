@@ -66,6 +66,4 @@ TLS employs several cryptographic algorithms to ensure security:
 
 TLS is essential for maintaining the security of data exchanged over the internet. It provides encryption, authentication, and integrity, ensuring that sensitive information is protected from unauthorized access and tampering. Continuous updates and proper configurations are necessary to maintain its effectiveness and secure communication.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
